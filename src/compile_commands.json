@@ -1,0 +1,742 @@
+[
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/alloc.o alloc.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/alloc.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/arabic.o arabic.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/arabic.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/arglist.o arglist.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/arglist.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/autocmd.o autocmd.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/autocmd.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/beval.o beval.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/beval.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/buffer.o buffer.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/buffer.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/change.o change.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/change.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/blob.o blob.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/blob.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/blowfish.o blowfish.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/blowfish.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/cindent.o cindent.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/cindent.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/clientserver.o clientserver.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/clientserver.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/clipboard.o clipboard.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/clipboard.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/cmdexpand.o cmdexpand.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/cmdexpand.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/cmdhist.o cmdhist.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/cmdhist.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/crypt.o crypt.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/crypt.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/crypt_zip.o crypt_zip.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/crypt_zip.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/debugger.o debugger.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/debugger.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/dict.o dict.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/dict.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/diff.o diff.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/diff.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/digraph.o digraph.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/digraph.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/drawline.o drawline.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/drawline.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/drawscreen.o drawscreen.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/drawscreen.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/edit.o edit.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/edit.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/eval.o eval.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/eval.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/evalbuffer.o evalbuffer.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/evalbuffer.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/evalfunc.o evalfunc.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/evalfunc.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/evalvars.o evalvars.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/evalvars.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/evalwindow.o evalwindow.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/evalwindow.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/ex_cmds.o ex_cmds.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/ex_cmds.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/ex_cmds2.o ex_cmds2.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/ex_cmds2.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/ex_docmd.o ex_docmd.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/ex_docmd.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/ex_eval.o ex_eval.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/ex_eval.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/ex_getln.o ex_getln.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/ex_getln.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/fileio.o fileio.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/fileio.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/filepath.o filepath.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/filepath.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/findfile.o findfile.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/findfile.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/float.o float.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/float.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/fold.o fold.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/fold.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/fuzzy.o fuzzy.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/fuzzy.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/getchar.o getchar.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/getchar.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/gc.o gc.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/gc.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/gui_xim.o gui_xim.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/gui_xim.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/hardcopy.o hardcopy.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/hardcopy.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -I/opt/homebrew/Cellar/cairo/1.18.4/include -I/opt/homebrew/Cellar/cairo/1.18.4/include/cairo -I/opt/homebrew/Cellar/fontconfig/2.18.3/include -I/opt/homebrew/opt/freetype/include/freetype2 -I/opt/homebrew/opt/libpng/include/libpng16 -I/opt/homebrew/Cellar/libxext/1.3.7/include -I/opt/homebrew/Cellar/xorgproto/2025.1/include -I/opt/homebrew/Cellar/libxrender/0.9.12/include -I/opt/homebrew/Cellar/libx11/1.8.13/include -I/opt/homebrew/Cellar/libxcb/1.17.0/include -I/opt/homebrew/Cellar/libxau/1.0.12/include -I/opt/homebrew/Cellar/libxdmcp/1.1.5/include -I/opt/homebrew/Cellar/pixman/0.46.4/include/pixman-1 -I/opt/homebrew/Cellar/pango/1.57.0_1/include/pango-1.0 -I/opt/homebrew/Cellar/cairo/1.18.4/include/cairo -I/opt/homebrew/Cellar/libxext/1.3.7/include -I/opt/homebrew/Cellar/xorgproto/2025.1/include -I/opt/homebrew/Cellar/libxrender/0.9.12/include -I/opt/homebrew/Cellar/libx11/1.8.13/include -I/opt/homebrew/Cellar/libxcb/1.17.0/include -I/opt/homebrew/Cellar/libxau/1.0.12/include -I/opt/homebrew/Cellar/libxdmcp/1.1.5/include -I/opt/homebrew/Cellar/pixman/0.46.4/include/pixman-1 -I/opt/homebrew/Cellar/glib/2.88.3/include -I/opt/homebrew/Cellar/fribidi/1.0.16/include/fribidi -I/opt/homebrew/Cellar/fontconfig/2.18.3/include -I/opt/homebrew/Cellar/harfbuzz/14.4.0/include/harfbuzz -I/opt/homebrew/opt/freetype/include/freetype2 -I/opt/homebrew/opt/libpng/include/libpng16 -I/opt/homebrew/opt/graphite2/include -I/opt/homebrew/Cellar/glib/2.88.3/include/glib-2.0 -I/opt/homebrew/Cellar/glib/2.88.3/lib/glib-2.0/include -I/opt/homebrew/opt/gettext/include -I/opt/homebrew/Cellar/pcre2/10.48/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/usr/include/ffi -o objects/hardcopy_pango.o hardcopy_pango.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/hardcopy_pango.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/hardcopy_postscript.o hardcopy_postscript.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/hardcopy_postscript.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/hashtab.o hashtab.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/hashtab.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/help.o help.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/help.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/highlight.o highlight.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/highlight.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/if_cscope.o if_cscope.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/if_cscope.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/if_xcmdsrv.o if_xcmdsrv.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/if_xcmdsrv.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/indent.o indent.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/indent.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/insexpand.o insexpand.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/insexpand.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/linematch.o linematch.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/linematch.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/list.o list.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/list.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/locale.o locale.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/locale.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/logfile.o logfile.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/logfile.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/map.o map.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/map.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/mark.o mark.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/mark.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/match.o match.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/match.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/mbyte.o mbyte.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/mbyte.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/memline.o memline.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/memline.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/menu.o menu.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/menu.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/misc1.o misc1.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/misc1.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/misc2.o misc2.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/misc2.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/mouse.o mouse.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/mouse.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/move.o move.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/move.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/normal.o normal.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/normal.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/ops.o ops.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/ops.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/option.o option.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/option.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/optionstr.o optionstr.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/optionstr.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/os_unix.o os_unix.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/os_unix.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/pathdef.o auto/pathdef.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/auto/pathdef.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/popupmenu.o popupmenu.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/popupmenu.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/popupwin.o popupwin.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/popupwin.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/profiler.o profiler.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/profiler.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/pty.o pty.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/pty.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/quickfix.o quickfix.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/quickfix.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/regexp.o regexp.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/regexp.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/register.o register.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/register.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/screen.o screen.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/screen.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/scriptfile.o scriptfile.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/scriptfile.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/search.o search.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/search.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/session.o session.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/session.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/sha256.o sha256.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/sha256.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/sign.o sign.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/sign.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/sixel.o sixel.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/sixel.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/kitty.o kitty.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/kitty.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/cairo.o cairo.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/cairo.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/socketserver.o socketserver.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/socketserver.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/sound.o sound.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/sound.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/spell.o spell.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/spell.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/spellfile.o spellfile.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/spellfile.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/spellsuggest.o spellsuggest.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/spellsuggest.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/strings.o strings.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/strings.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/syntax.o syntax.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/syntax.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/tabpanel.o tabpanel.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/tabpanel.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/tag.o tag.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/tag.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/term.o term.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/term.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/terminal.o terminal.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/terminal.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/testing.o testing.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/testing.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/textformat.o textformat.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/textformat.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/textobject.o textobject.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/textobject.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/textprop.o textprop.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/textprop.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/time.o time.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/time.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/tuple.o tuple.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/tuple.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/typval.o typval.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/typval.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/ui.o ui.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/ui.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/undo.o undo.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/undo.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/usercmd.o usercmd.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/usercmd.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/userfunc.o userfunc.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/userfunc.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/version.o version.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/version.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9class.o vim9class.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9class.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9cmds.o vim9cmds.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9cmds.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9compile.o vim9compile.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9compile.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9execute.o vim9execute.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9execute.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9expr.o vim9expr.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9expr.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9generics.o vim9generics.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9generics.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9instr.o vim9instr.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9instr.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9script.o vim9script.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9script.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/vim9type.o vim9type.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/vim9type.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/viminfo.o viminfo.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/viminfo.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/window.o window.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/window.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/bufwrite.o bufwrite.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/bufwrite.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_encoding.o libvterm/src/encoding.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/encoding.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_keyboard.o libvterm/src/keyboard.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/keyboard.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_mouse.o libvterm/src/mouse.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/mouse.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_parser.o libvterm/src/parser.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/parser.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_pen.o libvterm/src/pen.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/pen.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_screen.o libvterm/src/screen.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/screen.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_state.o libvterm/src/state.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/state.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_unicode.o libvterm/src/unicode.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/unicode.c"
+    },
+    {
+        "command": "cc -c -I. -Ilibvterm/include -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -DINLINE= -DVSNPRINTF=vim_vsnprintf -DSNPRINTF=vim_snprintf -DIS_COMBINING_FUNCTION=utf_iscomposing_uint -DWCWIDTH_FUNCTION=utf_uint2cells -o objects/vterm_vterm.o libvterm/src/vterm.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/libvterm/src/vterm.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/os_macosx.o os_macosx.m",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/os_macosx.m"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/os_mac_conv.o os_mac_conv.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/os_mac_conv.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/netbeans.o netbeans.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/netbeans.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/job.o job.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/job.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/channel.o channel.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/channel.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/xdiffi.o xdiff/xdiffi.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/xdiff/xdiffi.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/xemit.o xdiff/xemit.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/xdiff/xemit.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/xprepare.o xdiff/xprepare.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/xdiff/xprepare.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/xutils.o xdiff/xutils.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/xdiff/xutils.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/xhistogram.o xdiff/xhistogram.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/xdiff/xhistogram.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/xpatience.o xdiff/xpatience.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/xdiff/xpatience.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/charset.o charset.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/charset.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/json.o json.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/json.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/main.o main.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/main.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/memfile.o memfile.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/memfile.c"
+    },
+    {
+        "command": "cc -c -I. -Iproto -DHAVE_CONFIG_H -I/opt/homebrew/opt/llvm/include -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -DMACOS_X -DMACOS_X_DARWIN -O2 -Wall -Wno-deprecated-declarations -D_REENTRANT -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1 -o objects/message.o message.c",
+        "directory": "/Users/chrisqiu/Github/vim/src",
+        "file": "/Users/chrisqiu/Github/vim/src/message.c"
+    }
+]

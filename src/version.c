@@ -3509,26 +3509,7 @@ intro_message(
     char	*p;
     static char	*(lines[]) =
     {
-	N_("VIM - Vi IMproved"),
-	"",
-	N_("version "),
-	N_("by Bram Moolenaar et al."),
-#ifdef MODIFIED_BY
-	" ",
-#endif
-	N_("Vim is open source and freely distributable"),
-	"",
-	N_("Help poor children in Uganda!"),
-	N_("type  :help Kuwasha<Enter>    for information "),
-	"",
-	N_("type  :q<Enter>               to exit         "),
-	N_("type  :help<Enter>  or  <F1>  for on-line help"),
-	N_("type  :help version9<Enter>   for version info"),
-	NULL,
-	"",
-	N_("Running in Vi compatible mode"),
-	N_("type  :set nocp<Enter>        for Vim defaults"),
-	N_("type  :help cp-default<Enter> for info on this"),
+        N_("Hello World!")
     };
 #ifdef FEAT_GUI
     static char	*(gui_lines[]) =

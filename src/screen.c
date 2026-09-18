@@ -192,56 +192,56 @@ win_draw_end(
     int		endrow,
     hlf_T	hl)
 {
-    int		n = 0;
-    int		attr = HL_ATTR(hl);
-    int		win_attr = get_win_attr(wp);
-    bool	override_success =
-	push_highlight_overrides(wp->w_hl, wp->w_hl_len);
+//     int		n = 0;
+//     int		attr = HL_ATTR(hl);
+//     int		win_attr = get_win_attr(wp);
+//     bool	override_success =
+// 	push_highlight_overrides(wp->w_hl, wp->w_hl_len);
 
-    attr = hl_combine_attr(win_attr, attr);
+//     attr = hl_combine_attr(win_attr, attr);
 
-    if (draw_margin)
-    {
-#ifdef FEAT_FOLDING
-	int	fdc = compute_foldcolumn(wp, 0);
+//     if (draw_margin)
+//     {
+// #ifdef FEAT_FOLDING
+// 	int	fdc = compute_foldcolumn(wp, 0);
 
-	if (fdc > 0)
-	    // draw the fold column
-	    n = screen_fill_end(wp, ' ', ' ', n, fdc,
-		      row, endrow, hl_combine_attr(win_attr, HL_ATTR(HLF_FC)));
-#endif
-#ifdef FEAT_SIGNS
-	if (signcolumn_on(wp))
-	    // draw the sign column
-	    n = screen_fill_end(wp, ' ', ' ', n, 2,
-		      row, endrow, hl_combine_attr(win_attr, HL_ATTR(HLF_SC)));
-#endif
-	if ((wp->w_p_nu || wp->w_p_rnu)
-				  && vim_strchr(p_cpo, CPO_NUMCOL) == NULL)
-	    // draw the number column
-	    n = screen_fill_end(wp, ' ', ' ', n, number_width(wp) + 1,
-		       row, endrow, hl_combine_attr(win_attr, HL_ATTR(HLF_N)));
-    }
+// 	if (fdc > 0)
+// 	    // draw the fold column
+// 	    n = screen_fill_end(wp, ' ', ' ', n, fdc,
+// 		      row, endrow, hl_combine_attr(win_attr, HL_ATTR(HLF_FC)));
+// #endif
+// #ifdef FEAT_SIGNS
+// 	if (signcolumn_on(wp))
+// 	    // draw the sign column
+// 	    n = screen_fill_end(wp, ' ', ' ', n, 2,
+// 		      row, endrow, hl_combine_attr(win_attr, HL_ATTR(HLF_SC)));
+// #endif
+// 	if ((wp->w_p_nu || wp->w_p_rnu)
+// 				  && vim_strchr(p_cpo, CPO_NUMCOL) == NULL)
+// 	    // draw the number column
+// 	    n = screen_fill_end(wp, ' ', ' ', n, number_width(wp) + 1,
+// 		       row, endrow, hl_combine_attr(win_attr, HL_ATTR(HLF_N)));
+//     }
 
-#ifdef FEAT_RIGHTLEFT
-    if (wp->w_p_rl)
-    {
-	screen_fill(W_WINROW(wp) + row, W_WINROW(wp) + endrow,
-		wp->w_wincol, W_ENDCOL(wp) - 1 - n, c2, c2, attr);
-	screen_fill(W_WINROW(wp) + row, W_WINROW(wp) + endrow,
-		W_ENDCOL(wp) - 1 - n, W_ENDCOL(wp) - n, c1, c2, attr);
-    }
-    else
-#endif
-    {
-	screen_fill(W_WINROW(wp) + row, W_WINROW(wp) + endrow,
-		wp->w_wincol + n, (int)W_ENDCOL(wp), c1, c2, attr);
-    }
+// #ifdef FEAT_RIGHTLEFT
+//     if (wp->w_p_rl)
+//     {
+// 	screen_fill(W_WINROW(wp) + row, W_WINROW(wp) + endrow,
+// 		wp->w_wincol, W_ENDCOL(wp) - 1 - n, c2, c2, attr);
+// 	screen_fill(W_WINROW(wp) + row, W_WINROW(wp) + endrow,
+// 		W_ENDCOL(wp) - 1 - n, W_ENDCOL(wp) - n, c1, c2, attr);
+//     }
+//     else
+// #endif
+//     {
+// 	screen_fill(W_WINROW(wp) + row, W_WINROW(wp) + endrow,
+// 		wp->w_wincol + n, (int)W_ENDCOL(wp), c1, c2, attr);
+//     }
 
-    set_empty_rows(wp, row);
+//     set_empty_rows(wp, row);
 
-    if (override_success)
-	pop_highlight_overrides();
+//     if (override_success)
+// 	pop_highlight_overrides();
 }
 
 #if defined(FEAT_FOLDING)
